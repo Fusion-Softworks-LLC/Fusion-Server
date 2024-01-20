@@ -1,5 +1,5 @@
 //Fusion Softworks Communicator
-
+//Commit Log
 
 class Fusion {
 GetLatestCommitFromRepositry(RepositryName) 
